@@ -1,0 +1,10 @@
+{
+    "name": "siovision/sio_sso_lib",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+          "siovision\\sio_sso_lib\\": "src/"
+        }
+      }
+}
