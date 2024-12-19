@@ -6,5 +6,7 @@
         "psr-4": {
           "siovision\\sio_sso_lib\\": "src/"
         }
-      }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
